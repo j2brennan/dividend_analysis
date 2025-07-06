@@ -1,0 +1,12 @@
+{
+  "total_payments": 131,
+  "total_dividend_amount": 103.96099999999998,
+  "avg_dividend_amount": 0.7935954198473282,
+  "median_dividend_amount": 0.625,
+  "avg_daily_yield": 0.45126714140981816,
+  "max_daily_yield": 0.8152851571556606,
+  "min_daily_yield": 0.23739074824131312,
+  "avg_price_drop": 0.25510457171405143,
+  "max_price_drop": 5.661153587863333,
+  "min_price_drop": -3.1820110721710955
+}
