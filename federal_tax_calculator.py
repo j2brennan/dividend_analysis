@@ -1,9 +1,6 @@
 import pandas
 import numpy
 import matplotlib
-import yfinance
-import openpyxl
-import seaborn
 import os
 import math
 
